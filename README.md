@@ -8,6 +8,32 @@ It is estimated that over 115 million adults are affected by NASH worldwide (Tes
 
 People with cirrhosis (severe fibrosis or scarring) of the liver related to NASH may experience; Intense itching, Abdominal swelling, Easy bruising and bleeding, Jaundice (yellowing of the skin and eyes), Spider-like blood vessels beneath the skin's surface, Behavior changes, confusion, and slurred speech.( Sharma et al., 2023). No medications have been approved for the treatment of NAFLD, including NASH, but researchers are currently studying different potential therapies for NASH.
 
-### Objective
+## Objective
 
 This study focus on identifying drug candidate against Non-Alcoholic Steato Hepatits (NASH)
+
+## Methods
+
+### Workflow
+
+
+
+
+
+## Result
+
+
+
+## Conclusion
+
+
+
+
+## Team Members
+Chimenya Ntweya
+Desmond  Qwejo
+Babra Mutowa
+Omotosho
+
+
+
