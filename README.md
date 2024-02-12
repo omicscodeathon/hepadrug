@@ -31,9 +31,7 @@ This study focus on identifying drug candidate against Non-Alcoholic Steato Hepa
 
 ## Team Members
 -Chimenya Ntweya (Department of Biotechnology and Bioinformatics, Deogiri College, Aurangabad, India; Department of Medical Laboratory, Queen Elizabeth Central Hospital, Blantyre, Malawi) chimenyantweya54@gmail.com)
--Desmond  Qwejo (desmondqwejo@gmail.com)
--Babra Mutowa(bnutowa003@gmail.com)
--Omotosho(oo.omotosho@gmail.com)
+
 
 
 
