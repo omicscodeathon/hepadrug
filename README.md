@@ -15,7 +15,7 @@ This study focus on identifying drug candidate against Non-Alcoholic Steato Hepa
 ## Methods
 
 ### Workflow
-
+![Workflow](workflow/Schema.jpeg)
 
 
 
