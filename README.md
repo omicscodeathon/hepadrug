@@ -44,7 +44,7 @@ Potential energy graph
 Predicted binding pocket from CASTp
 
 
-![CASTp](figures/CasTpred.PNG)
+![CASTp](figures/CastTpred.PNG)
 Corresponding binding amino acid residues in the binding pocket (red) 
 
 
