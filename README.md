@@ -27,8 +27,27 @@ This study focus on identifying drug candidate against Non-Alcoholic Steato Hepa
 
 ## Result
 
+
 ![Target](figures/modelled_FXR.png)
 Structure of redesigned FXR protein. 
+
+
+![Target](figures/energy_minimized_FXR.png)
+Energy minimized structure 
+
+
+![PE](figures/Potential_Energy_Graph.PNG)
+Potential energy graph 
+
+
+![CASTp](figures/CasTp_Pred..PNG)
+Predicted binding pocket from CASTp
+
+
+![CASTp](figures/CasTpred.PNG)
+Corresponding binding amino acid residues in the binding pocket (red) 
+
+
 
 
 
