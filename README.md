@@ -25,8 +25,10 @@ This study focus on identifying drug candidate against Non-Alcoholic Steato Hepa
 
 
 
-
 ## Result
+
+![Target](figures/modelled_FXR.png)
+Structure of redesigned FXR protein. 
 
 
 
