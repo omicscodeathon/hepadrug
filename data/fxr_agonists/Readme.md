@@ -1,4 +1,6 @@
 Literature reported agonists of FXR
+sdf structures obtained from PubChem (https://pubchem.ncbi.nlm.nih.gov/) 
+
 ##AGONISTS 
 
 1.	Obeticholic acid		----	Conformer3D_COMPOUND_CID_447715
