@@ -47,6 +47,17 @@ Predicted binding pocket from CASTp
 ![CASTp](figures/CastTpred.PNG)
 Corresponding binding amino acid residues in the binding pocket (red) 
 
+###
+
+![EANPDB](figures/EANPDB_DrugLike_summary.JPG)
+Job Summary from Drug like filtering with FAF-Drugs4.1
+
+###
+
+![EANPDB](figures/NANPDB_DrugLike_summary.JPG)
+Job Summary from Drug like filtering with FAF-Drugs4.1
+
+
 
 
 
