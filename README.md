@@ -24,6 +24,11 @@ This study focus on identifying drug candidate against Non-Alcoholic Steato Hepa
 ![Workflow](workflow/Schema.jpeg)
 
 
+###
+
+###
+
+
 
 ## Result
 
@@ -31,31 +36,40 @@ This study focus on identifying drug candidate against Non-Alcoholic Steato Hepa
 ![Target](figures/modelled_FXR.png)
 Structure of redesigned FXR protein. 
 
+###
+###
 
 ![Target](figures/energy_minimized_FXR.png)
 Energy minimized structure 
 
+###
+###
 
 ![PE](figures/Potential_Energy_Graph.PNG)
 Potential energy graph 
 
+###
+###
 
 ![CASTp](figures/CasTp_Pred..PNG)
 Predicted binding pocket from CASTp
 
-
+###
+###
 ![CASTp](figures/CastTpred.PNG)
 Corresponding binding amino acid residues in the binding pocket (red) 
 
 ###
+###
 
 ![EANPDB](figures/EANPDB_DrugLike_summary.JPG)
-Job Summary from Drug like filtering with FAF-Drugs4.1
+Job Summary from EANPDB Drug likeness filtering with FAF-Drugs4.1
 
+###
 ###
 
 ![EANPDB](figures/NANPDB_DrugLike_summary.JPG)
-Job Summary from Drug like filtering with FAF-Drugs4.1
+Job Summary from NANPDB Drug likeness filtering with FAF-Drugs4.1
 
 
 
