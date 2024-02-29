@@ -18,6 +18,8 @@ This study focus on identifying drug candidate against Non-Alcoholic Steato Hepa
 - Subsequent improvement of the tertiary structure of the vaccine construct were done with the GalaxyRefined (https://galaxy.seoklab.org/cgi-bin/submit.cgi?ty.pe=REFINE)
 - Structure energy minimisation were done using gromacs (https://gromacs.bioexcel.eu/t/energy-minimization-and-stereochemistry/506/4) best minismised structure was obtained through OPLS force field
 - The results obtained from the galaxy were validated using PROCHECK (https://saves.mbi.ucla.edu/)
+- Libray preparation; Initially, 1871 compounds were selected after a rigorous literature review and NANPDB (http://african-compounds.org/nanpdb)
+- Compound screening; FAF-Drugs (Free ADME-Tox Filtering Tool version 4.0) (https://bioserv.rpbs.univ-paris-diderot.fr/services.html)  is a program for filtering large compound libraries prior to in silico screening experiments or related modeling studies.
 
 
 ### Workflow
