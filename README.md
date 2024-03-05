@@ -73,9 +73,20 @@ Job Summary from EANPDB Drug likeness filtering with FAF-Drugs4.1
 ![EANPDB](figures/NANPDB_DrugLike_summary.JPG)
 Job Summary from NANPDB Drug likeness filtering with FAF-Drugs4.1
 
+###Pharmacophore Generation and Screening 
 
+![Model](Generated Pharmacophore model.JPG)
+Generated Pharmacophore Model showing features (3 HBA and 1 H)
 
+![Model_Validation](Model_Validation_ROC.png)
+ROC curve of validated pharmacophore 
 
+![inhibitors](6_inhibitors_on_pharmacophore.JPG)
+![inhibitors](9_inhibitors_on_pharmacophore.JPG)
+All inhibitors used in model generation and thier shared features 
+
+![inhibitors](Top_10_Pharmacophore-Hits_on_Pharmacophore.JPG)
+Top 10 Pharmacophore-Hits mapped onto generated Pharmacophore model
 
 
 ## Conclusion
