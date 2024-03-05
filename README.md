@@ -75,7 +75,7 @@ Job Summary from NANPDB Drug likeness filtering with FAF-Drugs4.1
 
 ###Pharmacophore Generation and Screening 
 
-![Model](figures/"Generated Pharmacophore model.JPG")
+![Model](figures/Generated_Pharmacophore_model.JPG)
 Generated Pharmacophore Model showing features (3 HBA and 1 H)
 
 ![Model_Validation](figures/Model_Validation_ROC.png)
