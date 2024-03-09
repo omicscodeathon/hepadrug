@@ -97,8 +97,8 @@ Top 10 Pharmacophore-Hits mapped onto generated Pharmacophore model
 ## Team Members
 1. Chimenya Ntweya (Department of Biotechnology and Bioinformatics, Deogiri College, Aurangabad, India; Department of Medical Laboratory, Queen Elizabeth Central Hospital, Blantyre, Malawi) chimenyantweya54@gmail.com)
 2. Desmond Osarfo Amoah (Department of Parasitology, Noguchi Memorial Institute for Medical Research, University of Ghana) desmondqwejo@gmail.com)
-3. Barbra Mutowa (bmutowa003@gmail.com)
-4. Omotosho(oo.omotosho@gmail.com)
+3. Oudou Diabate (diabateoudou@gmail.com), African Centre of Excellence in Bioinformatics (ACE-B), University of Sciences, Techniques and Technologies of Bamako (USTTB), Mali
+4. Olaitan I.Awe (laitanawe@gmail.com), African Society for Bioinformatics and Computational Biology, Cape Town, South Africa
 
 
 
