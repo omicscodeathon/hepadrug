@@ -20,6 +20,7 @@ This study focus on identifying drug candidate against Non-Alcoholic Steato Hepa
 - The results obtained from the galaxy were validated using PROCHECK (https://saves.mbi.ucla.edu/)
 - Libray preparation; Initially, 1871 compounds were selected after a rigorous literature review and NANPDB (http://african-compounds.org/nanpdb)
 - Compound screening; FAF-Drugs (Free ADME-Tox Filtering Tool version 4.0) (https://bioserv.rpbs.univ-paris-diderot.fr/services.html)  is a program for filtering large compound libraries prior to in silico screening experiments or related modeling studies.
+- LigandScout 4.3 (http://www.inteligand.com/ligandscout) is a fully integrated platform for accurate virtual screening based on 3D chemical pharmacophore models. It offers seamless workflows, starting from both ligand- and structure-based pharmacophore modeling
 
 
 ### Workflow
