@@ -160,14 +160,27 @@ Figure 12: Surface view of Docked compound (pink) in FXR (blue)
 
 
 
-<p><img align="left" width="35%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/pose1.JPG" alt="Workflow"> <img width="60%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/validation.JPG" alt="Workflow"> Figure 13: Superimposition of FXR ligands, RSMD of 0.00 was obtained;   Figure 14: Ligand interactions of redesigned FXR and 1OSH structure </p>
+<p><img align="left" width="35%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/pose1.JPG" alt="Workflow"> <img width="60%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/validation.JPG" alt="Workflow"> Figure 13: Superimposition of FXR ligands, RSMD of 0.00 Å was obtained;   Figure 14: Ligand interactions of redesigned FXR and 1OSH structure </p>
+
+Table 2: Top 5 EANPDB molecules from Docking, arranged in decreasing order of binding affinity. 
+| Ligand | Binding Affinity  (kcal/mol) |
+| ------ | ----------------------- |
+| Abyssinone IV | -9.1 |
+| Cinnamolide-3beta-acetate | -8.9 |
+| Uguenenprenol  | -8.7 |
+| 5-deoxyabyssinin II | -8.6 |
+| 3-O-benzoylhosloquinone  | -8.4 |
+
+<h4 align="center">
+Protein-Ligand Interaction Studies. 
+</h4>
 
 <p align="center"><img align="center" width="100%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/Ferulagol.JPG" alt="Workflow">  </p>
 <p align="center"><img align="center" width="100%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/Cinna.JPG" alt="Workflow">  </p>
 <p align="center"><img align="center" width="100%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/Thymelol.JPG" alt="Workflow">  </p>
 
 <p align="center">
-Figure 15: 2D and 3D interactions of top 3 ligands shortlisted from docking 
+Figure 15: 2D and 3D interactions of top 3 ligands shortlisted from docking. Hydrogen bonds are depicted as green dashed lines and hydrophobic contacts as red spikes. 
 </p>
 
 
