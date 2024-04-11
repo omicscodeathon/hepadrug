@@ -175,6 +175,19 @@ Table 2: Top 5 EANPDB molecules from Docking, arranged in decreasing order of bi
 Protein-Ligand Interaction Studies. 
 </h4>
 
+Table 3: Interactions of top Molecules
+
+| Ligand | Binding Affinity  (kcal/mol) | Hbond Number| Hydrogen Bonds [Bond Length (Å)] | Hydrophobic contacts|
+|-------- |---------------------------- | ------------ |---------------------------------| -------------------- |
+| ferulagol_A | -9.1 | 3 | Ser92[2.78], Tyr121[2.91], Tyr129[3.15] | Phe44, Leu47, Thr48, Ala51, His54, Val85, Met88, Phe89, Ile117, Phe203, His207, Met210, Trp214, Phe221, Leu225, Trp229 |
+| Abyssinone IV | -9.1 | 3 | Ser92[2.66], Tyr129[2.37], Trp214[3.13] | Phe44, Leu47, Thr48, Met50, Ala51, Val85, Met88, Phe89, Leu108, Ile112, Ile117, Tyr121, Met128, Phe203, His207, Met210, Phe221, Leu225, Trp229 | 
+| rutamontine | -8.9| 0 | None | Phe44, Leu47, Thr48, Met50, Ala51, His54, Met88, Ser92, Ile95, Leu100, Leu108, Ile112, Ile117, Tyr121, Phe126, Tyr129, Met210, Trp214, Phe221, Leu225, Trp229 | 
+| cinnamolide-3beta-acetate | -8.9 | 1 | Ser92[3.02] | Phe44, Leu47, Ala51, Met88, Phe89, Ile117, Tyr121, Met125, His207, Met210, Trp214, Phe221, Trp229 |
+| Thymelol | -8.8 | 3 | Ser92[2.92],Tyr129[2.71], Tyr121[2.86] | Phe44, Leu47, Thr48, Met50, Ala51, Leu108, Ile112, Ile117, Met125, Met210, Trp214, Phe221, Leu225, Trp229|
+
+
+
+
 <p align="center"><img align="center" width="100%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/Ferulagol.JPG" alt="Workflow">  </p>
 <p align="center"><img align="center" width="100%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/Cinna.JPG" alt="Workflow">  </p>
 <p align="center"><img align="center" width="100%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/Thymelol.JPG" alt="Workflow">  </p>
@@ -203,8 +216,9 @@ Figure 17: Radius of gyration plots of FXR-Ligand complexes over 100ns.
 <p align="center"><img align="center" width="45%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/rmsf_ferugalol_thymelol.PNG" alt="Workflow">  </p>
 
 <p align="center">
-Figure 16: Root Mean Square Fluctuation plots of FXR-Ligand complexes over 100ns. 
+Figure 18: Root Mean Square Fluctuation plots of FXR-Ligand complexes over 100ns. 
 </p>
+
 
 
 ## Conclusion
