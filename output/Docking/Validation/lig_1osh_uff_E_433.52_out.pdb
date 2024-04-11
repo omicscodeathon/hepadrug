@@ -1,0 +1,77 @@
+HETATM    1  N   FEX N   1       5.299  29.188  50.708  0.00  0.00           N  
+HETATM    2  N   FEX N   1       6.566  24.186  60.043  0.00  0.00           N  
+HETATM    3  C   FEX N   1       6.295  28.139  50.795  0.00  0.00           C  
+HETATM    4  C   FEX N   1       6.346  27.591  52.196  0.00  0.00           C  
+HETATM    5  C   FEX N   1       5.591  26.460  52.525  0.00  0.00           C  
+HETATM    6  C   FEX N   1       5.631  25.926  53.810  0.00  0.00           C  
+HETATM    7  C   FEX N   1       6.440  26.506  54.796  0.00  0.00           C  
+HETATM    8  C   FEX N   1       7.205  27.642  54.468  0.00  0.00           C  
+HETATM    9  C   FEX N   1       7.154  28.183  53.173  0.00  0.00           C  
+HETATM   10  C   FEX N   1       6.481  25.912  56.155  0.00  0.00           C  
+HETATM   11  C   FEX N   1       7.573  26.135  57.007  0.00  0.00           C  
+HETATM   12  C   FEX N   1       7.603  25.566  58.285  0.00  0.00           C  
+HETATM   13  C   FEX N   1       6.540  24.764  58.737  0.00  0.00           C  
+HETATM   14  C   FEX N   1       5.449  24.543  57.883  0.00  0.00           C  
+HETATM   15  C   FEX N   1       5.421  25.109  56.608  0.00  0.00           C  
+HETATM   16  C   FEX N   1       7.750  24.261  60.862  0.00  0.00           C  
+HETATM   17  C   FEX N   1       5.410  23.508  60.575  0.00  0.00           C  
+HETATM   18  C   FEX N   1       3.992  28.827  50.155  0.00  0.00           C  
+HETATM   19  C   FEX N   1       3.132  29.909  49.495  0.00  0.00           C  
+HETATM   20  C   FEX N   1       2.738  29.651  48.039  0.00  0.00           C  
+HETATM   21  C   FEX N   1       1.913  30.805  47.446  0.00  0.00           C  
+HETATM   22  C   FEX N   1       1.916  32.053  48.332  0.00  0.00           C  
+HETATM   23  C   FEX N   1       1.388  31.723  49.736  0.00  0.00           C  
+HETATM   24  C   FEX N   1       1.973  30.431  50.336  0.00  0.00           C  
+HETATM   25  C   FEX N   1       5.692  30.519  51.038  0.00  0.00           C  
+HETATM   26  C   FEX N   1       6.715  31.141  50.308  0.00  0.00           C  
+HETATM   27  C   FEX N   1       7.174  32.411  50.667  0.00  0.00           C  
+HETATM   28  C   FEX N   1       6.666  33.037  51.804  0.00  0.00           C  
+HETATM   29  C   FEX N   1       5.685  32.406  52.575  0.00  0.00           C  
+HETATM   30  C   FEX N   1       5.188  31.151  52.185  0.00  0.00           C  
+HETATM   31  C   FEX N   1       5.260  33.029  53.860  0.00  0.00           C  
+HETATM   32  C   FEX N   1       5.467  32.021  54.984  0.00  0.00           C  
+HETATM   33  C   FEX N   1       5.228  32.626  56.327  0.00  0.00           C  
+HETATM   34  C   FEX N   1       3.714  33.709  57.831  0.00  0.00           C  
+HETATM   35  O   FEX N   1       3.228  28.126  51.088  0.00  0.00           O  
+HETATM   36  O   FEX N   1       6.136  32.667  57.148  0.00  0.00           O  
+HETATM   37  O   FEX N   1       3.993  33.086  56.637  0.00  0.00           O  
+HETATM   38  H   FEX N   1       3.453  27.183  51.046  0.00  0.00           H  
+CONECT    1    3   18   25
+CONECT    2   16   17   13
+CONECT    3    1    4
+CONECT    4    3    5    9
+CONECT    5    4    6
+CONECT    6    5    7
+CONECT    7    6    8   10
+CONECT    8    7    9
+CONECT    9    4    8
+CONECT   10    7   11   15
+CONECT   11   10   12
+CONECT   12   11   13
+CONECT   13   12    2   14
+CONECT   14   13   15
+CONECT   15   10   14
+CONECT   16    2
+CONECT   17    2
+CONECT   18    1   19   35
+CONECT   19   18   20   24
+CONECT   20   19   21
+CONECT   21   20   22
+CONECT   22   21   23
+CONECT   23   22   24
+CONECT   24   19   23
+CONECT   25    1   26   30
+CONECT   26   25   27
+CONECT   27   26   28
+CONECT   28   27   29
+CONECT   29   28   30   31
+CONECT   30   25   29
+CONECT   31   29   32
+CONECT   32   31   33
+CONECT   33   32   36   37
+CONECT   34   37
+CONECT   35   18   38
+CONECT   36   33
+CONECT   37   33   34
+CONECT   38   35
+END
