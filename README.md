@@ -152,6 +152,16 @@ Table 1: Top 5 EANPDB Pharmacophore Hits after ligand-based screening.
 Docking Studies 
 </h4>
 
+<p align="center"><img align="center" width="55%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/Ligand_in_biniding_site.JPG" alt="Workflow">  </p>
+
+<p align="center">
+Figure 12: Surface view of Docked compound (pink) in FXR (blue)
+</p>
+
+<p align="center">
+
+
+
 
 ## Conclusion
 
