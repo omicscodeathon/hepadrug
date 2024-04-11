@@ -79,7 +79,7 @@ CASTp
 <h4 align="center">
 Homology Modelling, Refinement and Binding Site Pred 
 </h4>
-#### Homology Modelling, Refinement and Binding Site Pred.
+
 <p><img align="left" width="50%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/modelled_FXR.png" alt="Workflow"> <img width="45%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/energy_minimized_FXR.png" alt="Workflow"> Figure 1: Structure of the Modeller redesigned FXR protein structure, added residues in yellow.    Figure 2: Energy minimized structure through GROMACS. Protein surrounded by water molecules (red) and ions </p>
 
 <p><img align="left" width="45%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/Potential_Energy_Graph.PNG" alt="Workflow"> <img width="50%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/CasTp_Pred..PNG" alt="Workflow"> Figure 3: Potential energy graph of refined FXR through CHARMM and OPLS/AA force fields    Figure 4: CASTp predicted ligand-binding pocket of FXR (red)  </p>
@@ -93,24 +93,33 @@ Figure 5: Corresponding binding amino acid residues in the binding pocket (red)
 
 <p align="center">
 
+
 </p>
 
-#### Ligand Library Preparation
+<h4 align="center">
+Ligand Library Preparation 
+</h4>
 
 ![EANPDB](figures/EANPDB_DrugLike_summary.JPG)
 <p align="center">
-Figure 6: Job Summary from EANPDB Drug likeness filtering with FAF-Drugs4.1 1152 molecules passed the DrugLikeness test. 
+Figure 6: Job Summary from EANPDB Drug likeness filtering with FAF-Drugs4.1, 1152 molecules passed the DrugLikeness test. 
 </p>
 
 
 ![EANPDB](figures/NANPDB_DrugLike_summary.JPG)
-Job Summary from NANPDB Drug likeness filtering with FAF-Drugs4.1
+
 <p align="center">
-Figure 6: Job Summary from NANPDB Drug likeness filtering with FAF-Drugs4.1 2842 molecules passed the DrugLikeness test. 
+Figure 6: Job Summary from NANPDB Drug likeness filtering with FAF-Drugs4.1, 2842 molecules passed the DrugLikeness test. 
 </p>
 
+<p align="center">
 
-### Pharmacophore Generation and Screening 
+
+</p>
+
+<h4 align="center">
+Pharmacophore Generation and Screening
+</h4>
 
 ![Model](figures/Generated_Pharmacophore_model.JPG)
 Generated Pharmacophore Model showing features (3 HBA and 1 H)
