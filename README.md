@@ -119,7 +119,7 @@ Figure 7: Job Summary from NANPDB Drug likeness filtering with FAF-Drugs4.1, 284
 Pharmacophore Generation and Screening
 </h4>
 
-<p><img align="left" width="50%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/Generated_Pharmacophore_model.JPG" alt="Workflow"> <img width="40%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/Model_Validation_ROC.png" alt="Workflow"> Figure 8: LigandScout generated pharmacophore model showing all four features 3 HBA (red) and 1 H (yellow)   Figure 9: ROC curve of validated pharmacophore, overall AUC of 0.80 obtained   </p>
+<p><img align="left" width="55%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/Generated_Pharmacophore_model.JPG" alt="Workflow"> <img width="40%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/Model_Validation_ROC.png" alt="Workflow"> Figure 8: LigandScout generated pharmacophore model showing all four features 3 HBA (red) and 1 H (yellow)   Figure 9: ROC curve of validated pharmacophore, overall AUC of 0.80 obtained   </p>
 
 ![Model](figures/Generated_Pharmacophore_model.JPG)
 Generated Pharmacophore Model showing features (3 HBA and 1 H)
