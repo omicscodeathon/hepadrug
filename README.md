@@ -76,6 +76,9 @@ CASTp
 
 ## Results
 
+<h4 align="center">
+Homology Modelling, Refinement and Binding Site Pred 
+</h4>
 #### Homology Modelling, Refinement and Binding Site Pred.
 <p><img align="left" width="50%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/modelled_FXR.png" alt="Workflow"> <img width="45%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/energy_minimized_FXR.png" alt="Workflow"> Figure 1: Structure of the Modeller redesigned FXR protein structure, added residues in yellow.    Figure 2: Energy minimized structure through GROMACS. Protein surrounded by water molecules (red) and ions </p>
 
