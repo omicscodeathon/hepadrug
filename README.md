@@ -64,7 +64,13 @@ CASTp
 - Molecular Dynamics Simulations of complexes were done by means of GROMACS.
   
 
+<p align="center">
+    <img width="50%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/modelled_FXR.png" alt="Workflow">
+</p>
 
+<p align="center">
+    <img width="50%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/energy_minimized_FXR.png" alt="Workflow">
+</p>
 
 ## Result
 
