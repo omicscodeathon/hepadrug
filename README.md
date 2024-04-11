@@ -128,18 +128,17 @@ Figure 10: All agonists used in model generation and their shared pharmacophore 
 Figure 11: Top 10 Pharmacophore-Hits mapped onto generated Pharmacophore model 
 </p>
 
-Table of Top 5 EANPDB pharmacophore Hits 
+Table of Top 5 EANPDB Pharmacophore Hits 
 | Ligand | Pharmacophore Fit Score |
 | ------ | ----------------------- |
-|Ferulagol A | 4.44|
-| Thymelol |  3.4|
+| aloenin acetal | 45.25 |
+| busseihydroquinone D | 44.5 |
+| 13-acetoxy-17-hydroxy-labda-8,14-diene-17-O-(xylopyranoside triacetate) | 44.51 |
+| knipholone mannich base | 44.27 |
+| burttinone | 44.2 |
 
 <p align="center">
-Table of Top 5 EANPDB pharmacophore Hits 
-| Ligand | Pharmacophore Fit Score |
-| ------ | ----------------------- |
-|Ferulagol A | 4.44|
-| Thymelol |  3.4|
+
 </p>
 
 <h4 align="center">
