@@ -130,7 +130,9 @@ Pharmacophore Generation and Screening
 Figure 10: All agonists used in model generation and their shared pharmacophore features 
 </p>
 
- 
+
+<p><img align="left" width="55%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/Top_10_Pharmacophore-Hits_on_Pharmacophore.JPG" alt="Workflow"> Figure 11: Top 10 Pharmacophore-Hits mapped onto generated Pharmacophore model </p>
+
 
 ![inhibitors](figures/Top_10_Pharmacophore-Hits_on_Pharmacophore.JPG)
 Top 10 Pharmacophore-Hits mapped onto generated Pharmacophore model
