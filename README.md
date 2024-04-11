@@ -66,13 +66,6 @@ CASTp
 
 
 
-<p align="left">
-    <img width="50%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/modelled_FXR.png" alt="Workflow">
-</p>
-
-<p align="right">
-    <img width="50%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/energy_minimized_FXR.png" alt="Workflow">
-</p>
 
 ## Results
 
@@ -133,8 +126,22 @@ Figure 10: All agonists used in model generation and their shared pharmacophore 
 
 <p align="center">
 Figure 11: Top 10 Pharmacophore-Hits mapped onto generated Pharmacophore model 
+
+
+Table of Top 5 EANPDB pharmacophore Hits 
+| Ligand | Pharmacophore Fit Score |
+| ------ | ----------------------- |
+|Ferulagol A | 4.44|
+| Thymelol |  3.4|
+</p>
+<p align="center">
+
+
 </p>
 
+<h4 align="center">
+Pharmacophore Generation and Screening
+</h4>
 
 
 ## Conclusion
