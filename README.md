@@ -122,17 +122,15 @@ Pharmacophore Generation and Screening
 <p><img align="left" width="55%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/Generated_Pharmacophore_model.JPG" alt="Workflow"> <img width="40%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/Model_Validation_ROC.png" alt="Workflow"> Figure 8: LigandScout generated pharmacophore model showing all four features 3 HBA (red) and 1 H (yellow);  Figure 9: ROC curve of validated pharmacophore, overall AUC of 0.80 obtained   </p>
 
 
-<p align="center">
+
 
 ![inhibitors](figures/6_inhibitors_on_pharmacophore.JPG)
 ![inhibitors](figures/9_inhibitors_on_pharmacophore.JPG)
+<p align="center">
 Figure 10: All agonists used in model generation and their shared pharmacophore features 
-
 </p>
 
-![inhibitors](figures/6_inhibitors_on_pharmacophore.JPG)
-![inhibitors](figures/9_inhibitors_on_pharmacophore.JPG)
-All inhibitors used in model generation and thier shared features 
+ 
 
 ![inhibitors](figures/Top_10_Pharmacophore-Hits_on_Pharmacophore.JPG)
 Top 10 Pharmacophore-Hits mapped onto generated Pharmacophore model
