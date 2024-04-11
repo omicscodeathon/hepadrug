@@ -72,7 +72,7 @@ CASTp
     <img width="50%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/energy_minimized_FXR.png" alt="Workflow">
 </p>
 
-## Result
+## Results
 
 
 ![Target](figures/modelled_FXR.png)
