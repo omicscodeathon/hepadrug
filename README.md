@@ -184,6 +184,18 @@ Figure 15: 2D and 3D interactions of top 3 ligands shortlisted from docking. Hyd
 </p>
 
 
+<h4 align="center">
+Molecular Dynamics Simulations. 
+</h4>
+
+<p align="center"><img align="center" width="45%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/rmsd_ferugalol_thymelol.PNG" alt="Workflow">  </p>
+<p align="center"><img align="center" width="45%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/rmsd_cinna.PNG" alt="Workflow">  </p>
+
+<p align="center">
+Figure 16: Root Mean Square Deviation plots of FXR-Ligand complexes over 100ns. 
+</p>
+
+
 
 ## Conclusion
 
