@@ -25,7 +25,7 @@ Figure 1: Detailed flow of the various methods carried out in the study.
 </p>
 
 <p align="center">
-    <img width="2000" src="https://github.com/omicscodeathon/hepadrug/blob/main/workflow/Schema.jpeg" alt="Workflow">
+    <img width="1000" src="https://github.com/omicscodeathon/hepadrug/blob/main/workflow/Schema.jpeg" alt="Workflow">
 </p>
 
 ### Bioinformatics Tools Required 
