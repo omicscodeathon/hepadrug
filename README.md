@@ -128,7 +128,12 @@ Figure 10: All agonists used in model generation and their shared pharmacophore 
 Figure 11: Top 10 Pharmacophore-Hits mapped onto generated Pharmacophore model 
 </p>
 
-Table of Top 5 EANPDB Pharmacophore Hits 
+<p align="center">
+
+
+
+</p>
+Table 1: Top 5 EANPDB Pharmacophore Hits after ligand-based screening.
 | Ligand | Pharmacophore Fit Score |
 | ------ | ----------------------- |
 | aloenin acetal | 45.25 |
