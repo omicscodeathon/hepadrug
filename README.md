@@ -126,17 +126,20 @@ Figure 10: All agonists used in model generation and their shared pharmacophore 
 
 <p align="center">
 Figure 11: Top 10 Pharmacophore-Hits mapped onto generated Pharmacophore model 
-
+</p>
 
 Table of Top 5 EANPDB pharmacophore Hits 
 | Ligand | Pharmacophore Fit Score |
 | ------ | ----------------------- |
 |Ferulagol A | 4.44|
 | Thymelol |  3.4|
-</p>
+
 <p align="center">
-
-
+Table of Top 5 EANPDB pharmacophore Hits 
+| Ligand | Pharmacophore Fit Score |
+| ------ | ----------------------- |
+|Ferulagol A | 4.44|
+| Thymelol |  3.4|
 </p>
 
 <h4 align="center">
