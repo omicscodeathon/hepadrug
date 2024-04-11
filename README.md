@@ -17,10 +17,10 @@ This study seeks to identify novel potential agonists of FXR, presenting promisi
 
 
 ## Workflow 
-
-<p align="center">
   
 ![Workflow](workflow/Schema.jpeg)
+
+<p align="center">
 Figure 1: Detailed flow of the various methods carried out in the study.   
 </p>
 
