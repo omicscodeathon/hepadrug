@@ -80,9 +80,9 @@ CASTp
 Homology Modelling, Refinement and Binding Site Pred 
 </h4>
 
-<p><img align="left" width="50%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/modelled_FXR.png" alt="Workflow"> <img width="45%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/energy_minimized_FXR.png" alt="Workflow"> Figure 1: Structure of the Modeller redesigned FXR protein structure, added residues in yellow.    Figure 2: Energy minimized structure through GROMACS. Protein surrounded by water molecules (red) and ions </p>
+<p><img align="left" width="50%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/modelled_FXR.png" alt="Workflow"> <img width="45%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/energy_minimized_FXR.png" alt="Workflow"> Figure 1: Structure of the Modeller redesigned FXR protein structure, added residues in yellow;   Figure 2: Energy minimized structure through GROMACS. Protein surrounded by water molecules (red) and ions </p>
 
-<p><img align="left" width="45%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/Potential_Energy_Graph.PNG" alt="Workflow"> <img width="50%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/CasTp_Pred..PNG" alt="Workflow"> Figure 3: Potential energy graph of refined FXR through CHARMM and OPLS/AA force fields    Figure 4: CASTp predicted ligand-binding pocket of FXR (red)  </p>
+<p><img align="left" width="45%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/Potential_Energy_Graph.PNG" alt="Workflow"> <img width="50%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/CasTp_Pred..PNG" alt="Workflow"> Figure 3: Potential energy graph of refined FXR through CHARMM and OPLS/AA force fields;   Figure 4: CASTp predicted ligand-binding pocket of FXR (red)  </p>
 
 
 ![CASTp](figures/CastTpred.PNG)
@@ -119,13 +119,16 @@ Figure 7: Job Summary from NANPDB Drug likeness filtering with FAF-Drugs4.1, 284
 Pharmacophore Generation and Screening
 </h4>
 
-<p><img align="left" width="55%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/Generated_Pharmacophore_model.JPG" alt="Workflow"> <img width="40%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/Model_Validation_ROC.png" alt="Workflow"> Figure 8: LigandScout generated pharmacophore model showing all four features 3 HBA (red) and 1 H (yellow)   Figure 9: ROC curve of validated pharmacophore, overall AUC of 0.80 obtained   </p>
+<p><img align="left" width="55%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/Generated_Pharmacophore_model.JPG" alt="Workflow"> <img width="40%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/Model_Validation_ROC.png" alt="Workflow"> Figure 8: LigandScout generated pharmacophore model showing all four features 3 HBA (red) and 1 H (yellow);  Figure 9: ROC curve of validated pharmacophore, overall AUC of 0.80 obtained   </p>
 
-![Model](figures/Generated_Pharmacophore_model.JPG)
-Generated Pharmacophore Model showing features (3 HBA and 1 H)
 
-![Model_Validation](figures/Model_Validation_ROC.png)
-ROC curve of validated pharmacophore 
+<p align="center">
+
+![inhibitors](figures/6_inhibitors_on_pharmacophore.JPG)
+![inhibitors](figures/9_inhibitors_on_pharmacophore.JPG)
+Figure 10: All agonists used in model generation and their shared pharmacophore features 
+
+</p>
 
 ![inhibitors](figures/6_inhibitors_on_pharmacophore.JPG)
 ![inhibitors](figures/9_inhibitors_on_pharmacophore.JPG)
