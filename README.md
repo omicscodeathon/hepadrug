@@ -31,7 +31,6 @@ SwissADME
 SwissParam
 GalaxyRefine
 CASTp
-
 ```
 
 
@@ -45,9 +44,17 @@ CASTp
 - The results obtained from the galaxy were validated using PROCHECK (https://saves.mbi.ucla.edu/).
 - CASTp was subsequently used to predict the ligand-binding site of FXR.
 - 
-- Library preparation; Initially, 1871 and 4924 compounds were selected after a rigorous literature review and NANPDB (http://african-compounds.org/nanpdb)
-- Compound screening; FAF-Drugs (Free ADME-Tox Filtering Tool version 4.0) (https://bioserv.rpbs.univ-paris-diderot.fr/services.html)  is a program for filtering large compound libraries prior to in silico screening experiments or related modeling studies.
-- LigandScout 4.3 (http://www.inteligand.com/ligandscout) is a fully integrated platform for accurate virtual screening based on 3D chemical pharmacophore models. It offers seamless workflows, starting from both ligand- and structure-based pharmacophore modeling
+- Library preparation; Initially, 3D sdf data of 1871 and 4924 compounds were selected after a rigorous literature review from EANPDB and NANPDB respectively (http://african-compounds.org/nanpdb). 
+- Compound screening; Free ADME-Tox Filtering Tool version 4.0 (FAF-Drugs), a program for filtering large compound libraries prior to in silico screening experiments or related modeling studies was used to filter the libraries for Druglike molecules (https://bioserv.rpbs.univ-paris-diderot.fr/services.html). Datawarrior was used for Toxicity screening. 
+- LigandScout 4.5 (http://www.inteligand.com/ligandscout), a fully integrated platform for accurate virtual screening based on 3D chemical pharmacophore models was used to generate pharmacophore models from an input set of 15 reported FXR agonists (data/fxr_agonists/). It offers seamless workflows, starting from both ligand-based and structure-based pharmacophore modelling.
+- The best-generated model was validated by screening it against the 15 agonists and 500 decoys (output/Ligand-based_pharmacophore/decoys.smi) generated from DUD-E.
+- The validated model was used to virtually screen the EANPDB and NANPDB druglike compounds to obtain pharmacophore hits. 
+- AutoDock Vina interfaced with PyRx was used to carry out docking studies, screening the pharmacophore hits against the binding site of FXR.
+- LigPlot+ and PyMOL were used to analyze the interactions between the pharmacophore hits and the FXR, post docking.
+- SwissAME was used to predict the pharmacokinetics and physicochemical properties of hits obtained.
+- PASS online predicted the biological activities of obtained hits by receiving SMILES as input.
+- Molecular Dynamics Simulations of complexes were done by means of GROMACS.
+  
 
 
 
