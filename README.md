@@ -101,15 +101,13 @@ Ligand Library Preparation
 </h4>
 
 ![EANPDB](figures/EANPDB_DrugLike_summary.JPG)
-<p align="center">
+<p align="left">
 Figure 6: Job Summary from EANPDB Drug likeness filtering with FAF-Drugs4.1, 1152 molecules passed the DrugLikeness test. 
 </p>
 
-
 ![EANPDB](figures/NANPDB_DrugLike_summary.JPG)
-
-<p align="center">
-Figure 6: Job Summary from NANPDB Drug likeness filtering with FAF-Drugs4.1, 2842 molecules passed the DrugLikeness test. 
+<p align="left">
+Figure 7: Job Summary from NANPDB Drug likeness filtering with FAF-Drugs4.1, 2842 molecules passed the DrugLikeness test. 
 </p>
 
 <p align="center">
@@ -120,6 +118,8 @@ Figure 6: Job Summary from NANPDB Drug likeness filtering with FAF-Drugs4.1, 284
 <h4 align="center">
 Pharmacophore Generation and Screening
 </h4>
+
+<p><img align="left" width="50%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/Generated_Pharmacophore_model.JPG" alt="Workflow"> <img width="45%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/Model_Validation_ROC" alt="Workflow"> Figure 8: LigandScout generated pharmacophore model showing all four features 3 HBA (red) and 1 H (yellow)   Figure 9: ROC curve of validated pharmacophore, overall AUC of 0.80 obtained   </p>
 
 ![Model](figures/Generated_Pharmacophore_model.JPG)
 Generated Pharmacophore Model showing features (3 HBA and 1 H)
