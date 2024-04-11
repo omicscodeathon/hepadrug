@@ -145,10 +145,11 @@ Table 1: Top 5 EANPDB Pharmacophore Hits after ligand-based screening.
 
 <p align="center">
 
+
 </p>
 
 <h4 align="center">
-Pharmacophore Generation and Screening
+Docking Studies 
 </h4>
 
 
