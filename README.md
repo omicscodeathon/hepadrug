@@ -82,25 +82,10 @@ CASTp
 <p><img align="left" width="45%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/Potential_Energy_Graph.PNG" alt="Workflow"> <img width="50%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/CasTp_Pred..PNG" alt="Workflow"> Figure 1: Potential energy graph of refined FXR through CHARMM and OPLS/AA force fields    Figure 2: CASTp predicted ligand-binding pocket of FXR (red)  </p>
 
 
-###
-###
-
-###
-###
-
-![PE](figures/Potential_Energy_Graph.PNG)
-Potential energy graph 
-
-###
-###
-
-![CASTp](figures/CasTp_Pred..PNG)
-Predicted binding pocket from CASTp
-
-###
-###
 ![CASTp](figures/CastTpred.PNG)
 Corresponding binding amino acid residues in the binding pocket (red) 
+
+
 
 ###
 ###
