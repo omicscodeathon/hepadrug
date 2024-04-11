@@ -222,14 +222,21 @@ Figure 18: Root Mean Square Fluctuation plots of FXR-Ligand complexes over 100ns
 
 
 ## Conclusion
+- 929 natural products were computationally screened against the binding site of FXR
+- Further evaluation of the compounds were based on thier affinities, interactions and thier plausible biological activities
+- 3 molecules emerged as potent novel agonists of FXR.
+- All the 3 molecules possessed Anti-inflammatory, Hepatoprotectant, and Lipid metabolism regulator properties
 
+## Significance 
+- The proposed molecules could be further validated experimentally, furthermore the molecules could serve as scafolds for the design of new Nonalcoholic steatohepatitis drugs.
+- The study could help in expediting the development of new and alternative NASH treatment regimens
 
 
 
 
 ## Team Members
-1. Chimenya Ntweya (Department of Biotechnology and Bioinformatics, Deogiri College, Aurangabad, India; Department of Medical Laboratory, Queen Elizabeth Central Hospital, Blantyre, Malawi) chimenyantweya54@gmail.com)
-2. Desmond Osarfo Amoah (Department of Parasitology, Noguchi Memorial Institute for Medical Research, University of Ghana) desmondqwejo@gmail.com)
+1. Chimenya Ntweya (chimenyantweya54@gmail.com), Department of Biotechnology and Bioinformatics, Deogiri College, Aurangabad, India; Department of Medical Laboratory, Queen Elizabeth Central Hospital, Blantyre, Malawi
+2. Desmond Osarfo Amoah (desmondqwejo@gmail.com), Department of Parasitology, Noguchi Memorial Institute for Medical Research, University of Ghana
 3. Oudou Diabate (diabateoudou@gmail.com), African Centre of Excellence in Bioinformatics (ACE-B), University of Sciences, Techniques and Technologies of Bamako (USTTB), Mali
 4. Olaitan I.Awe (laitanawe@gmail.com), African Society for Bioinformatics and Computational Biology, Cape Town, South Africa
 
