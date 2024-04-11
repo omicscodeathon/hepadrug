@@ -88,19 +88,26 @@ Figure 5: Corresponding binding amino acid residues in the binding pocket (red)
 </p>
 
 
-###
-###
+<p align="center">
+
+</p>
+
+#### Ligand Library Preparation
 
 ![EANPDB](figures/EANPDB_DrugLike_summary.JPG)
-Job Summary from EANPDB Drug likeness filtering with FAF-Drugs4.1
+<p align="center">
+Figure 6: Job Summary from EANPDB Drug likeness filtering with FAF-Drugs4.1 1152 molecules passed the DrugLikeness test. 
+</p>
 
-###
-###
 
 ![EANPDB](figures/NANPDB_DrugLike_summary.JPG)
 Job Summary from NANPDB Drug likeness filtering with FAF-Drugs4.1
+<p align="center">
+Figure 6: Job Summary from NANPDB Drug likeness filtering with FAF-Drugs4.1 2842 molecules passed the DrugLikeness test. 
+</p>
 
-###Pharmacophore Generation and Screening 
+
+### Pharmacophore Generation and Screening 
 
 ![Model](figures/Generated_Pharmacophore_model.JPG)
 Generated Pharmacophore Model showing features (3 HBA and 1 H)
