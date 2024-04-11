@@ -188,6 +188,8 @@ Figure 15: 2D and 3D interactions of top 3 ligands shortlisted from docking. Hyd
 Molecular Dynamics Simulations. 
 </h4>
 
+<p><img align="left" width="45%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/rmsd_ferugalol_thymelol.PNG" alt="Workflow"> <img width="45%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/rmsd_cinna.PNG" alt="Workflow">  </p>
+
 <p align="center"><img align="center" width="45%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/rmsd_ferugalol_thymelol.PNG" alt="Workflow">  </p>
 <p align="center"><img align="center" width="45%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/rmsd_cinna.PNG" alt="Workflow">  </p>
 
