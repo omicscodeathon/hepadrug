@@ -200,7 +200,7 @@ Figure 16: Root Mean Square Deviation plots of FXR-Ligand complexes over 100ns.
 Figure 17: Radius of gyration plots of FXR-Ligand complexes over 100ns. 
 </p>
 
-<p align="center"><img align="center" width="100%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/rmsf_ferugalol_thymelol.PNG" alt="Workflow">  </p>
+<p align="center"><img align="center" width="45%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/rmsf_ferugalol_thymelol.PNG" alt="Workflow">  </p>
 
 <p align="center">
 Figure 16: Root Mean Square Fluctuation plots of FXR-Ligand complexes over 100ns. 
