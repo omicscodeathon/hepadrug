@@ -1,8 +1,8 @@
 # Drug Candidate Development against Non-alcoholic Steato Hepatitis
 
-## Background
+
 <h2 align="center">
-## Background
+Background
 </h2>
 Non-alcoholic fatty liver disease (NAFLD) is defined as the ectopic accumulation of fat in the liver (hepatic steatosis) when no other causes of secondary liver fat accumulation are present. Although minor deposition of fat can occur in the livers of healthy adults, deposition of fat in at least 5% of hepatocytes is considered pathological. NAFLD includes both nonalcoholic fatty liver (NAFL) and nonalcoholic steatohepatitis (NASH), which is diagnosed when there is evidence of inflammatory activity and hepatocyte injury in steatotic liver tissue (Pang et al. .,2019, Hester et al ., 2020, Kaplan et al., 2019). Nonalcoholic fatty liver disease (NAFLD), including nonalcoholic steatohepatitis (NASH), reportedly affects the health status of approximately one in four people worldwide according to a recent meta-analysis ( Younossi et al., 2016). Nonalcoholic steatohepatitis (NASH) is the most severe form of nonalcoholic fatty liver disease (NAFLD), a condition in which the liver builds up excessive fat deposits. NASH clearly progresses to cirrhosis with further decompensation, leading to death or liver transplantation in some individuals (Goh et al., 2016, Chalasani et al. ., 2018, Asrani et al., 2019,) 
 
@@ -14,10 +14,13 @@ The Farnesoid X Receptor (FXR), a ligand-activated nuclear receptor transcriptio
 
 
 ## Objective
+
 This study seeks to identify novel potential agonists of FXR, presenting promising candidates for drug development aimed at treating Non-Alcoholic Steato Hepatitis (NASH). 
 
 
-## Workflow
+<h2 align="center">
+Workflow
+</h2>
 ![Workflow](workflow/Schema.jpeg)
 
 ### Bioinformatics Tools Required 
@@ -46,7 +49,6 @@ CASTp
 - Structure energy minimisation was done using GROMACS utilizing both the CHARMM and OPLS/AA force fields (https://gromacs.bioexcel.eu/t/energy-minimization-and-stereochemistry/506/4). 
 - The results obtained from the galaxy were validated using PROCHECK (https://saves.mbi.ucla.edu/).
 - CASTp was subsequently used to predict the ligand-binding site of FXR.
-- 
 - Library preparation; Initially, 3D sdf data of 1871 and 4924 compounds were selected after a rigorous literature review from EANPDB and NANPDB respectively (http://african-compounds.org/nanpdb). 
 - Compound screening; Free ADME-Tox Filtering Tool version 4.0 (FAF-Drugs), a program for filtering large compound libraries prior to in silico screening experiments or related modeling studies was used to filter the libraries for Druglike molecules (https://bioserv.rpbs.univ-paris-diderot.fr/services.html). Datawarrior was used for Toxicity screening. 
 - LigandScout 4.5 (http://www.inteligand.com/ligandscout), a fully integrated platform for accurate virtual screening based on 3D chemical pharmacophore models was used to generate pharmacophore models from an input set of 15 reported FXR agonists (data/fxr_agonists/). It offers seamless workflows, starting from both ligand-based and structure-based pharmacophore modelling.
