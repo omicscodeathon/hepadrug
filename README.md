@@ -24,6 +24,9 @@ This study seeks to identify novel potential agonists of FXR, presenting promisi
 Figure 1: Detailed flow of the various methods carried out in the study.   
 </p>
 
+<p align="center">
+    <img width="200" src="https://github.com/omicscodeathon/hepadrug/blob/main/workflow/Schema.jpeg" alt="Workflow">
+</p>
 
 ### Bioinformatics Tools Required 
 ```
