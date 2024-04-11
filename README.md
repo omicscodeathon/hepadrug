@@ -160,7 +160,7 @@ Figure 12: Surface view of Docked compound (pink) in FXR (blue)
 
 
 
-<p><img align="left" width="35%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/pose1.JPG" alt="Workflow"> <img width="55%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/validation.JPG" alt="Workflow"> Figure 13: Superimposition of FXR ligands, RSMD of 0.00 was obtained;   Figure 14: Ligand interactions of redesigned FXR and 1OSH structure </p>
+<p><img align="left" width="35%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/pose1.JPG" alt="Workflow"> <img width="60%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/validation.JPG" alt="Workflow"> Figure 13: Superimposition of FXR ligands, RSMD of 0.00 was obtained;   Figure 14: Ligand interactions of redesigned FXR and 1OSH structure </p>
 
 <p align="center"><img align="center" width="100%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/Ferulagol.JPG" alt="Workflow">  </p>
 <p align="center"><img align="center" width="100%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/Cinna.JPG" alt="Workflow">  </p>
