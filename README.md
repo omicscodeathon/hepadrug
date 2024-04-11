@@ -18,10 +18,14 @@ The Farnesoid X Receptor (FXR), a ligand-activated nuclear receptor transcriptio
 This study seeks to identify novel potential agonists of FXR, presenting promising candidates for drug development aimed at treating Non-Alcoholic Steato Hepatitis (NASH). 
 
 
-<h2 align="center">
-Workflow
-</h2>
+## Workflow 
+
+<p align="center">
+  
 ![Workflow](workflow/Schema.jpeg)
+  
+</p>
+
 
 ### Bioinformatics Tools Required 
 ```
