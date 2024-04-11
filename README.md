@@ -62,7 +62,11 @@ CASTp
 - SwissAME was used to predict the pharmacokinetics and physicochemical properties of hits obtained.
 - PASS online predicted the biological activities of obtained hits by receiving SMILES as input.
 - Molecular Dynamics Simulations of complexes were done by means of GROMACS.
-  
+
+
+<img width="50%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/modelled_FXR.png" alt="Workflow">
+
+<img width="50%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/energy_minimized_FXR.png" alt="Workflow">
 
 <p align="left">
     <img width="50%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/modelled_FXR.png" alt="Workflow">
