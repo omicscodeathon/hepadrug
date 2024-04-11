@@ -64,7 +64,7 @@ CASTp
 - Molecular Dynamics Simulations of complexes were done by means of GROMACS.
 
 
-<p><img align="left" width="50%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/modelled_FXR.png" alt="Workflow"> <img width="45%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/energy_minimized_FXR.png" alt="Workflow"></p>
+<p><img align="left" width="50%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/modelled_FXR.png" alt="Workflow"> <img width="45%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/energy_minimized_FXR.png" alt="Workflow"> Figue 1: Structure of redesigned FXR protein. Figure 2: Energy minimized structure </p>
 
 <p align="left">
     <img width="50%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/modelled_FXR.png" alt="Workflow">
