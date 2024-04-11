@@ -158,7 +158,7 @@ Docking Studies
 Figure 12: Surface view of Docked compound (pink) in FXR (blue)
 </p>
 
-<p align="center">
+
 
 <p><img align="left" width="50%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/pose1.JPG" alt="Workflow"> <img width="45%" src="https://github.com/omicscodeathon/hepadrug/blob/main/figures/ validation.JPG" alt="Workflow"> Figure 13: Superimposition of FXR ligands, RSMD of 0.00 was obtained;   Figure 2: Ligand interactions of redesigned FXR and 1OSH structure </p>
 
