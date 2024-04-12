@@ -1,8 +1,11 @@
 # Drug Candidate Development against Non-alcoholic Steato Hepatitis
 
 ## Table of Contents  
-[Background](#headers)
+1. [Background](#headers)
+2. [Objective](#headers)
+3. [Workflow](#headers)
 [Objective](#headers)
+
 [Workflow](#headers) 
 [Bioinformatics Tools Required](#headers) 
 [Methods](#headers) 
@@ -14,6 +17,12 @@
 ...snip...    
 <a name="headers"/>
 
+##### Table of Contents  
+[Headers](#headers)  
+[Emphasis](#emphasis)  
+...snip...    
+<a name="headers"/>
+## Headers
 
 ## Background
 
