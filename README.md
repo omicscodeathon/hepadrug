@@ -1,5 +1,12 @@
 # Drug Candidate Development against Non-alcoholic Steato Hepatitis
 
+##### Table of Contents  
+[Headers](#headers)  
+[Emphasis](#emphasis)  
+...snip...    
+<a name="headers"/>
+## Headers
+
 ## Background
 
 Non-alcoholic fatty liver disease (NAFLD) is defined as the ectopic accumulation of fat in the liver (hepatic steatosis) when no other causes of secondary liver fat accumulation are present. Although minor deposition of fat can occur in the livers of healthy adults, deposition of fat in at least 5% of hepatocytes is considered pathological. NAFLD includes both nonalcoholic fatty liver (NAFL) and nonalcoholic steatohepatitis (NASH), which is diagnosed when there is evidence of inflammatory activity and hepatocyte injury in steatotic liver tissue (Pang et al. .,2019, Hester et al ., 2020, Kaplan et al., 2019). Nonalcoholic fatty liver disease (NAFLD), including nonalcoholic steatohepatitis (NASH), reportedly affects the health status of approximately one in four people worldwide according to a recent meta-analysis ( Younossi et al., 2016). Nonalcoholic steatohepatitis (NASH) is the most severe form of nonalcoholic fatty liver disease (NAFLD), a condition in which the liver builds up excessive fat deposits. NASH clearly progresses to cirrhosis with further decompensation, leading to death or liver transplantation in some individuals (Goh et al., 2016, Chalasani et al. ., 2018, Asrani et al., 2019,) 
