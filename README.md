@@ -1,19 +1,16 @@
 # Drug Candidate Development against Non-alcoholic Steato Hepatitis
 
 ## Table of Contents  
-1. [Background](#headers)
+1. [Background](https://github.com/omicscodeathon/hepadrug/blob/main/README.md#background)
 2. [Objective](https://github.com/omicscodeathon/hepadrug/blob/main/README.md#objective)
-3. [Workflow](#headers)
-[Objective](#headers)
-
-[Workflow](#headers) 
-[Bioinformatics Tools Required](#headers) 
-[Methods](#headers) 
-[Results](#headers) 
-[Conclusion](#headers)
-[Significance](#headers)
-[Team Members](#headers)
-[Emphasis](#emphasis)  
+3. [Workflow](https://github.com/omicscodeathon/hepadrug/blob/main/README.md#workflow)
+4. [Bioinformatics Tools Required](https://github.com/omicscodeathon/hepadrug/blob/main/README.md#bioinformatics-tools-required)
+5. [Methods](#Methods)
+6. [Results](#headers)
+7. [Conclusion](#headers)
+8. [Significance](#headers)
+9. [Team Members](#headers)
+10. [Emphasis](#emphasis)  
 ...snip...    
 <a name="headers"/>
 
