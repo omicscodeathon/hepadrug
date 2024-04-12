@@ -6,20 +6,14 @@
 3. [Workflow](https://github.com/omicscodeathon/hepadrug/blob/main/README.md#workflow)
 4. [Bioinformatics Tools Required](https://github.com/omicscodeathon/hepadrug/blob/main/README.md#bioinformatics-tools-required)
 5. [Methods](#Methods)
-6. [Results](#headers)
-7. [Conclusion](#headers)
-8. [Significance](#headers)
-9. [Team Members](#headers)
-10. [Emphasis](#emphasis)  
-...snip...    
+6. [Results](#Results)
+7. [Conclusion](#Conclusion)
+8. [Significance](#Significance)
+9. [Team Members](https://github.com/omicscodeathon/hepadrug/blob/main/README.md#team-members)
+
 <a name="headers"/>
 
-##### Table of Contents  
-[Headers](#headers)  
-[Emphasis](#emphasis)  
-...snip...    
-<a name="headers"/>
-## Headers
+
 
 ## Background
 
