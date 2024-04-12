@@ -2,7 +2,7 @@
 
 ## Table of Contents  
 1. [Background](#headers)
-2. [Objective](#headers)
+2. [Objective](https://github.com/omicscodeathon/hepadrug/blob/main/README.md#objective)
 3. [Workflow](#headers)
 [Objective](#headers)
 
