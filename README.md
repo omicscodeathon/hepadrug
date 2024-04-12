@@ -1,7 +1,7 @@
 # Drug Candidate Development against Non-alcoholic Steato Hepatitis
 
 ##### Table of Contents  
-[Headers](#headers)  
+[Background](#headers)  
 [Emphasis](#emphasis)  
 ...snip...    
 <a name="headers"/>
