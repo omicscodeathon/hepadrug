@@ -252,7 +252,8 @@ Figure 18: Root Mean Square Fluctuation plots of FXR-Ligand complexes over 100ns
 ## Team Members
 1. Chimenya Ntweya (chimenyantweya54@gmail.com), Department of Biotechnology and Bioinformatics, Deogiri College, Aurangabad, India; Department of Medical Laboratory, Queen Elizabeth Central Hospital, Blantyre, Malawi
 2. Desmond Osarfo Amoah (desmondqwejo@gmail.com), Department of Parasitology, Noguchi Memorial Institute for Medical Research, University of Ghana
-3. Olaitan I.Awe (laitanawe@gmail.com), African Society for Bioinformatics and Computational Biology, Cape Town, South Africa
+3. Edward Jenner Tettevi (ejtettevi@gmail.com), Biomedical and Public Health Research Unit, Council for Scientific and Industrial Research-WRI, Accra, Ghana
+4. Olaitan I. Awe (laitanawe@gmail.com), African Society for Bioinformatics and Computational Biology, Cape Town, South Africa
 
 
 
